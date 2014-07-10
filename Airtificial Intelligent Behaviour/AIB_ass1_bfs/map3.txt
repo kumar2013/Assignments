@@ -1,0 +1,11 @@
+14
+9
+xxxxxxxxxxxxxx
+xs          xx
+xx xxxxxxxx  x
+x    x      xx
+xxxxx  xxxxxxx
+x      xx  xxx
+  xxxxxxxxxx g
+             x
+xxxxxxxxxxxxxx

@@ -1,0 +1,3 @@
+add $t0 $t1 $t3
+sw $t0 4($s2)
+sub $s0 $t0 $v0

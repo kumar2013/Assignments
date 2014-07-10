@@ -1,0 +1,1 @@
+This folder contains some of my assignments that I have done during my master programme.
